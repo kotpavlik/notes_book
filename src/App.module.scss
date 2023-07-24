@@ -1,0 +1,12 @@
+.app {
+    display: block;
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    .animation {
+        position: absolute;
+        left: calc(50% - 100px);
+        top: calc(50% - 140px);
+        width: 200px;
+    }
+}
