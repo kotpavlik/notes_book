@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/notes_book/static/css/main.d8cc11ac.css",
-    "main.js": "/notes_book/static/js/main.3362f72d.js",
-    "static/js/787.ebedf2f8.chunk.js": "/notes_book/static/js/787.ebedf2f8.chunk.js",
-    "index.html": "/notes_book/index.html",
-    "main.d8cc11ac.css.map": "/notes_book/static/css/main.d8cc11ac.css.map",
-    "main.3362f72d.js.map": "/notes_book/static/js/main.3362f72d.js.map",
-    "787.ebedf2f8.chunk.js.map": "/notes_book/static/js/787.ebedf2f8.chunk.js.map"
+    "main.css": "/kotpavlik.github.io/notes_book/static/css/main.d8cc11ac.css",
+    "main.js": "/kotpavlik.github.io/notes_book/static/js/main.31d52b95.js",
+    "static/js/787.ebedf2f8.chunk.js": "/kotpavlik.github.io/notes_book/static/js/787.ebedf2f8.chunk.js",
+    "index.html": "/kotpavlik.github.io/notes_book/index.html",
+    "main.d8cc11ac.css.map": "/kotpavlik.github.io/notes_book/static/css/main.d8cc11ac.css.map",
+    "main.31d52b95.js.map": "/kotpavlik.github.io/notes_book/static/js/main.31d52b95.js.map",
+    "787.ebedf2f8.chunk.js.map": "/kotpavlik.github.io/notes_book/static/js/787.ebedf2f8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d8cc11ac.css",
-    "static/js/main.3362f72d.js"
+    "static/js/main.31d52b95.js"
   ]
 }
